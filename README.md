@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Quang Nguyen
+# 👋 Hi, I’m Quang Nguyen
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C++, java, HTML, python.
+- 🌱 I’m currently learning Java, JavaScript, MySQL, PHP, Python.
 - 💞️ I’m looking to collaborate on Github.
 - 📫 How to reach me : quangnguyen16325@gmail.com
 
